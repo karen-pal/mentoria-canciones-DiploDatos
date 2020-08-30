@@ -1,5 +1,6 @@
 # FAMAFyC - UNC - Diplomatura en Ciencias de Datos
 
+# Practico 1 - Lab 1
 ## Spotify's audio features and experimental music
 
 ### by Karen Palacio
@@ -21,3 +22,9 @@ which include:
 *   Minimal music,
 *   Ambient.
 
+
+# Practico 2 - Lab 2
+
+## Kanye West's career through his lyrics
+
+### by Karen Palacio
